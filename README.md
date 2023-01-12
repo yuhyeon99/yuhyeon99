@@ -1,7 +1,7 @@
 ### 🤞 Nice way to meet me
 <p>
   <a href="https://www.instagram.com/yooo__hn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-</p>tt
+</p>
 
 <p>
   👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br/>
