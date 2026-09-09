@@ -1,5 +1,9 @@
  <div align=center>
 
+ ### 개발자 김유현입니다.
+
+ ---
+
 ### :computer: Tech Stack
 
 #### Languages
@@ -39,10 +43,5 @@
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![Husky](https://img.shields.io/badge/Husky-000000?style=for-the-badge&logo=git&logoColor=white)
 ![lint-staged](https://img.shields.io/badge/lint--staged-333333?style=for-the-badge&logo=git&logoColor=white)
-
-------------
-### 🐣
-
-꾸준히 성장하는 개발자가 되고 싶습니다😊
 
 </div>
